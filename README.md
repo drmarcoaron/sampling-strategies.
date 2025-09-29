@@ -1,6 +1,6 @@
 # Sampling Strategies in Large Language Models
 
-Welcome to **sampling-strategies**, an educational repository by [@marcoharuni](https://github.com/marcoharuni) dedicated to decoding strategies—the algorithms that turn probability distributions from large language models (LLMs) into actual words. This resource is inspired by the [YouTube explainer](#youtube-explainer) on how LLMs like ChatGPT decide which word to say next, and is intended for both learners and practitioners seeking a deeper, research-driven understanding of sampling in generative AI.
+Welcome to **sampling-strategies**, an educational repository by [@marcoharuni](https://github.com/marcoharuni) dedicated to decoding strategies—the algorithms that turn probability distributions from large language models (LLMs) into actual words. It explain how LLMs like ChatGPT decide which word to say next, and is intended for both learners and practitioners seeking a deeper, research-driven understanding of sampling in generative AI.
 
 ## Table of Contents
 
@@ -17,7 +17,6 @@ Welcome to **sampling-strategies**, an educational repository by [@marcoharuni](
     - [Beam Search](#beam-search)
 - [Practical Usage and Trade-offs](#practical-usage-and-trade-offs)
 - [References](#references)
-- [YouTube Explainer](#youtube-explainer)
 
 ---
 
@@ -107,7 +106,7 @@ If LLMs always picked the most probable next token, outputs would be repetitive 
 
 ## YouTube Explainer
 
-This repository is inspired by the [YouTube video explainer](https://www.youtube.com/) (replace with actual link), which demystifies LLM decoding strategies for a broad audience. The code and notebooks here allow you to experiment with these sampling techniques yourself—try them out and see how simple changes in decoding can transform the personality of your language model!
+The code and notebooks here allow you to experiment with these sampling techniques yourself—try them out and see how simple changes in decoding can transform the personality of your language model!
 
 ---
 
