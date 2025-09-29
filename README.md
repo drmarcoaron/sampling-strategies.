@@ -104,7 +104,7 @@ If LLMs always picked the most probable next token, outputs would be repetitive 
 - Ackley, D. H., Hinton, G. E., & Sejnowski, T. J. (1985). [A learning algorithm for Boltzmann machines](https://www.sciencedirect.com/science/article/pii/0167278985900871)
 - Radford, A., Wu, J., Child, R., et al. (2019). [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
-## YouTube Explainer
+
 
 The code and notebooks here allow you to experiment with these sampling techniques yourself—try them out and see how simple changes in decoding can transform the personality of your language model!
 
